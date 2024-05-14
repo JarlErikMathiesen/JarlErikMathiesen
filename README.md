@@ -1,6 +1,6 @@
-### Hello there 👋 I'm Jarl Erik Mathiesen
+# Hello there 👋 I'm Jarl Erik Mathiesen
 
-# Frontend Developer
+## Frontend Developer
 
 I am studying Frontend development at Noroff Vocational School.
 
