@@ -4,7 +4,7 @@
 
 I am studying Frontend development at Noroff Vocational School.
 
-# My skills
+### My skills
 - HTML
 - Javascript
 - CSS
