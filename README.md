@@ -2,7 +2,7 @@
 
 ## Frontend Developer
 
-I am studying Frontend development at Noroff Vocational School.
+I am studying Frontend development at Noroff Vocational School. I have learned a lot so far, and am looking forward to learning even more.
 
 ### My skills
 - HTML
