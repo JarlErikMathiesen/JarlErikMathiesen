@@ -1,26 +1,38 @@
 # Hello there 👋 I'm Jarl Erik Mathiesen
 
-## Frontend Developer
+## Frontend Developer from Norway
 
-I am studying Frontend development at Noroff Vocational School. I have learned a lot so far, and am looking forward to learning even more.
+I'm a frontend development student with a strong interest in creating responsive, user-friendly, and visually polished web applications.
 
-### My skills
-- HTML
-- Javascript
-- CSS
+Over the last few years I've worked with modern frontend technologies, APIs, deployment platforms, and UI design systems while building both school and personal projects.
 
+---
 
-<!--
-**JarlErikMathiesen/JarlErikMathiesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Technologies & Tools
 
-Here are some ideas to get you started:
+### Frontend
+- HTML5
+- CSS3 / SCSS
+- JavaScript (ES6+)
+- Tailwind CSS
+- Bootstrap
+- Responsive Design
+- Accessibility & Semantic HTML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Development Tools
+- Git & GitHub
+- VS Code
+- npm
+- Vite
+- ESLint
+
+### Backend & Services
+- Firebase
+- REST APIs
+- Authentication Systems
+
+### Other Experience
+- Netlify Deployment
+- Project Planning with Trello & GitHub Projects
+- Modular JavaScript Architecture
+- UI/UX Focused Development
