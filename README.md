@@ -47,3 +47,9 @@ Recently I've become interested in software security and broader development pra
 - Learning more about web security
 - Building projects with a focus on maintainability and user experience
 - Exploring modern tooling and development workflows
+
+## Portfolio
+
+Interested in my work?
+
+🔗 [Visit my portfolio](https://portfolio-jarlerik.netlify.app/)
