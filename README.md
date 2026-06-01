@@ -1,10 +1,12 @@
 # Hello there 👋 I'm Jarl Erik Mathiesen
 
-## Frontend Developer from Norway
+## Frontend Development Student & Web Developer
 
-I'm a frontend development student with a strong interest in creating responsive, user-friendly, and visually polished web applications.
+I'm a frontend developer based in Norway with a particular interest in building interfaces that are both functional and enjoyable to use.
 
-Over the last few years I've worked with modern frontend technologies, APIs, deployment platforms, and UI design systems while building both school and personal projects.
+I enjoy understanding how things work beneath the surface, whether that's responsive layouts, JavaScript architecture, accessibility, or the tools that power modern web development.
+
+Recently I've become interested in software security and broader development practices beyond the frontend, while continuing to improve my skills in design and user experience.
 
 ---
 
@@ -36,3 +38,12 @@ Over the last few years I've worked with modern frontend technologies, APIs, dep
 - Project Planning with Trello & GitHub Projects
 - Modular JavaScript Architecture
 - UI/UX Focused Development
+
+---
+
+## What I'm Working On
+
+- Improving my JavaScript and frontend architecture skills
+- Learning more about web security
+- Building projects with a focus on maintainability and user experience
+- Exploring modern tooling and development workflows
